@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6801
     wikipedia: http://en.wikipedia.org/wiki/Martin_Farquhar_Tupper
 description: The Complete Prose Works of Tupper, Volume 5
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19386#An-Author-s-Mind---The-Book-of-Title-pages
 gutenberg_issued: '2006-09-26'
 gutenberg_type: Text
 identifiers:
